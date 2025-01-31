@@ -10,4 +10,4 @@ else:
     valor_llamada = 300 + 50 * (cant_minutos - 3)
 
 #output
-print("El valor de la llamada es: " + str (valor_llamada) + " cop")
+print("El valor de la llamada es: " + str (valor_llamada))
